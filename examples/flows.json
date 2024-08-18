@@ -1,0 +1,2581 @@
+[
+    {
+        "id": "cf04d80643a320a1",
+        "type": "tab",
+        "label": "PGLite Testing",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "c649d77db751c0e2",
+        "type": "group",
+        "z": "cf04d80643a320a1",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "4fdb89ba37b64976",
+            "7afafec338739d5e",
+            "e8a9b09dbf851601",
+            "5c217b368b7df99a",
+            "27d77188c747290b",
+            "2c92ad67efe51972",
+            "1cd3da5b27d35d71",
+            "de8e320a69938d7f",
+            "edab672afbd613e1",
+            "6b8a8db517882838",
+            "b6d2d8c84a96b12a"
+        ],
+        "x": 154,
+        "y": 999,
+        "w": 1132,
+        "h": 402
+    },
+    {
+        "id": "d4d22c41530bea4e",
+        "type": "group",
+        "z": "cf04d80643a320a1",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "57e6ad8c9d4f2680",
+            "8cc9e8560b389147",
+            "6ed110b724cb1e8d",
+            "f9da614d0f2bfd10",
+            "3108b95df67209b2",
+            "43025525a2f93dcb",
+            "2740b911b47e517a",
+            "8b1168700718df92",
+            "5539f1b8e34d0bce",
+            "9d2f6e9ca297ac65",
+            "557e61c8e951493e",
+            "e38bad86c157cee8",
+            "9586ca83542ddbe8",
+            "b35a22f0084fe136",
+            "466131a38f0a1b52",
+            "74bd49ced76f20f0",
+            "a97e97a95e0b66c9",
+            "9260fa877572a1b2",
+            "ec88e8513e1fb517",
+            "3548b0bce59a4628",
+            "2507a5a1d57854b8",
+            "343f4bfcea6d192c"
+        ],
+        "x": 154,
+        "y": 179,
+        "w": 1092,
+        "h": 682
+    },
+    {
+        "id": "c3d2e2c90eae726e",
+        "type": "group",
+        "z": "cf04d80643a320a1",
+        "style": {
+            "stroke": "#3e4452",
+            "stroke-opacity": "1",
+            "fill": "#21252b",
+            "fill-opacity": "0.5",
+            "label": true,
+            "label-position": "nw",
+            "color": "#cccccc"
+        },
+        "nodes": [
+            "c848dec79e804bd3",
+            "ee983d73a7b14a8e",
+            "1a3c66a399ebb539",
+            "d52d07c03693bd72",
+            "9a2dd2efa2443483",
+            "04b8778a165c3d64",
+            "f217bbe2e3f378ad",
+            "8fa56b0a7fc1397e",
+            "3e8921245d1fc8dd"
+        ],
+        "x": 154,
+        "y": 1499,
+        "w": 1092,
+        "h": 242
+    },
+    {
+        "id": "d1f68ea0966202a7",
+        "type": "group",
+        "z": "cf04d80643a320a1",
+        "style": {
+            "stroke": "#3e4452",
+            "stroke-opacity": "1",
+            "fill": "#21252b",
+            "fill-opacity": "0.5",
+            "label": true,
+            "label-position": "nw",
+            "color": "#cccccc"
+        },
+        "nodes": [
+            "16d50bf7c8d7f9e7",
+            "33631d1d9fd93b28",
+            "6c0599200b17017b",
+            "e951f1739a9549a7",
+            "b3eaa3e5960b7b9e",
+            "1444f6e7102955c5",
+            "ab617e0c3065d074",
+            "ae090f897bfaeca3",
+            "44b4b39bf8677ee9",
+            "5c4f4ca0f5697f35",
+            "47f13ad478205d02",
+            "2d36d7faa0b1f9fe",
+            "71776daa1a7ee6ce"
+        ],
+        "x": 154,
+        "y": 1819,
+        "w": 1092,
+        "h": 302
+    },
+    {
+        "id": "c2d9e0fc1f46a1c5",
+        "type": "group",
+        "z": "cf04d80643a320a1",
+        "style": {
+            "stroke": "#3e4452",
+            "stroke-opacity": "1",
+            "fill": "#21252b",
+            "fill-opacity": "0.5",
+            "label": true,
+            "label-position": "nw",
+            "color": "#cccccc"
+        },
+        "nodes": [
+            "967cdbf7d7248b8e",
+            "156793d7706d60a2",
+            "7cd351b0173c8458",
+            "209207679a8a4185",
+            "9d29f8fc5bf2e23f",
+            "1c6b22f7f5ebe63f",
+            "28e2dcd2d17ffb9f",
+            "caa84b0bbf2de8d2",
+            "27dcdcbd23d712c3",
+            "02dc031f03c57aab",
+            "6eb4a849e5ad1fb8",
+            "e285dfe6f655a9bd",
+            "96bb953e67106ced",
+            "7f0d6c5677724877",
+            "44e740b6ce0118d8",
+            "38773597f52b3bfb",
+            "a3b1469eb9950ff3",
+            "66038b1e8a8507c6",
+            "16944fb70356a25b",
+            "60afdc9f9b1ed4ea",
+            "0cd8b7765f37253f",
+            "351c2888b74eebdf",
+            "3b1784287fcc2ccb",
+            "fc0a00d540f12a3c",
+            "56ac83030b76847e",
+            "8c97314c9d1bb85c",
+            "c61e7f4d2b4bde5e",
+            "034cc3a1e52d3fcb",
+            "ed0e5098e3efa658",
+            "891a7b20499cc370",
+            "e707aba7b381aab2",
+            "afc2f78bc35c072e",
+            "f7e4257bc76b05eb",
+            "56692d008a0cdcb9",
+            "ca2c9bec1d528199",
+            "898584af280b6ee7",
+            "3da055a094061dc0",
+            "95790ed47c108e6d",
+            "482a363e53d75210",
+            "7c6ccbac852dd45e",
+            "4fb5403321935ff2",
+            "d2158b3744467ef5",
+            "94496456fd89f790",
+            "6ba0e4c54578308f",
+            "9fddfb0592419efa"
+        ],
+        "x": 154,
+        "y": 2199,
+        "w": 1092,
+        "h": 562
+    },
+    {
+        "id": "41d9983c9266a4ed",
+        "type": "group",
+        "z": "cf04d80643a320a1",
+        "style": {
+            "stroke": "#3e4452",
+            "stroke-opacity": "1",
+            "fill": "#21252b",
+            "fill-opacity": "0.5",
+            "label": true,
+            "label-position": "nw",
+            "color": "#cccccc"
+        },
+        "nodes": [
+            "faed31e9556a2950",
+            "302b7784fe896ea3",
+            "6660f76bbbac8c94",
+            "f60f24a4fab37424",
+            "623a061a237d4625",
+            "ee1257cd0668caec",
+            "e60603a54d5091ab",
+            "8e25f585d98937c3",
+            "c052a8eb466f947f"
+        ],
+        "x": 154,
+        "y": 2839,
+        "w": 1092,
+        "h": 202
+    },
+    {
+        "id": "57e6ad8c9d4f2680",
+        "type": "pglite",
+        "z": "cf04d80643a320a1",
+        "g": "d4d22c41530bea4e",
+        "mydb": "848d747437c7533e",
+        "sqlquery": "msg.topic",
+        "sql": "",
+        "name": "PGLite via msg.topic",
+        "x": 880,
+        "y": 520,
+        "wires": [
+            [
+                "f9da614d0f2bfd10"
+            ]
+        ]
+    },
+    {
+        "id": "8cc9e8560b389147",
+        "type": "function",
+        "z": "cf04d80643a320a1",
+        "g": "d4d22c41530bea4e",
+        "name": "Create",
+        "func": "msg.topic = \"CREATE TABLE user_table (name TEXT, surname TEXT)\";\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 510,
+        "y": 280,
+        "wires": [
+            [
+                "57e6ad8c9d4f2680"
+            ]
+        ]
+    },
+    {
+        "id": "6ed110b724cb1e8d",
+        "type": "inject",
+        "z": "cf04d80643a320a1",
+        "g": "d4d22c41530bea4e",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 260,
+        "y": 280,
+        "wires": [
+            [
+                "8cc9e8560b389147"
+            ]
+        ]
+    },
+    {
+        "id": "f9da614d0f2bfd10",
+        "type": "debug",
+        "z": "cf04d80643a320a1",
+        "g": "d4d22c41530bea4e",
+        "name": "debug 4",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1100,
+        "y": 520,
+        "wires": []
+    },
+    {
+        "id": "3108b95df67209b2",
+        "type": "function",
+        "z": "cf04d80643a320a1",
+        "g": "d4d22c41530bea4e",
+        "name": "Insert Simple",
+        "func": "msg.topic = \"INSERT INTO user_table (name, surname) VALUES ('John', 'Smith');\"\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 530,
+        "y": 440,
+        "wires": [
+            [
+                "57e6ad8c9d4f2680"
+            ]
+        ]
+    },
+    {
+        "id": "43025525a2f93dcb",
+        "type": "function",
+        "z": "cf04d80643a320a1",
+        "g": "d4d22c41530bea4e",
+        "name": "Select",
+        "func": "msg.topic = `SELECT * from user_table`\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 510,
+        "y": 340,
+        "wires": [
+            [
+                "57e6ad8c9d4f2680"
+            ]
+        ]
+    },
+    {
+        "id": "2740b911b47e517a",
+        "type": "inject",
+        "z": "cf04d80643a320a1",
+        "g": "d4d22c41530bea4e",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 260,
+        "y": 440,
+        "wires": [
+            [
+                "3108b95df67209b2"
+            ]
+        ]
+    },
+    {
+        "id": "8b1168700718df92",
+        "type": "inject",
+        "z": "cf04d80643a320a1",
+        "g": "d4d22c41530bea4e",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 260,
+        "y": 340,
+        "wires": [
+            [
+                "43025525a2f93dcb"
+            ]
+        ]
+    },
+    {
+        "id": "5539f1b8e34d0bce",
+        "type": "function",
+        "z": "cf04d80643a320a1",
+        "g": "d4d22c41530bea4e",
+        "name": "Insert with Params",
+        "func": "msg.topic = `INSERT INTO user_table (name, surname) VALUES ($1, $2)`\nmsg.payload = [\"Mary\", \"Jones\"]\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 550,
+        "y": 500,
+        "wires": [
+            [
+                "57e6ad8c9d4f2680"
+            ]
+        ]
+    },
+    {
+        "id": "9d2f6e9ca297ac65",
+        "type": "inject",
+        "z": "cf04d80643a320a1",
+        "g": "d4d22c41530bea4e",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 260,
+        "y": 500,
+        "wires": [
+            [
+                "5539f1b8e34d0bce"
+            ]
+        ]
+    },
+    {
+        "id": "557e61c8e951493e",
+        "type": "inject",
+        "z": "cf04d80643a320a1",
+        "g": "d4d22c41530bea4e",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 260,
+        "y": 660,
+        "wires": [
+            [
+                "b35a22f0084fe136"
+            ]
+        ]
+    },
+    {
+        "id": "e38bad86c157cee8",
+        "type": "function",
+        "z": "cf04d80643a320a1",
+        "g": "d4d22c41530bea4e",
+        "name": "Batch Create/Insert",
+        "func": "msg.topic = `\ncreate table people_stats (\n    id bigint GENERATED ALWAYS AS IDENTITY,                       \n    age int,\n    height int,\n    weight int\n);\nINSERT INTO people_stats (age, height, weight) VALUES (20, 190, 90);\nINSERT INTO people_stats (age, height, weight) VALUES (25, 180, 80);\nINSERT INTO people_stats (age, height, weight) VALUES (30, 210, 60);\n`\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 530,
+        "y": 760,
+        "wires": [
+            [
+                "466131a38f0a1b52"
+            ]
+        ]
+    },
+    {
+        "id": "9586ca83542ddbe8",
+        "type": "inject",
+        "z": "cf04d80643a320a1",
+        "g": "d4d22c41530bea4e",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 260,
+        "y": 760,
+        "wires": [
+            [
+                "e38bad86c157cee8"
+            ]
+        ]
+    },
+    {
+        "id": "b35a22f0084fe136",
+        "type": "pglite",
+        "z": "cf04d80643a320a1",
+        "g": "d4d22c41530bea4e",
+        "mydb": "848d747437c7533e",
+        "sqlquery": "fixed",
+        "sql": "INSERT INTO user_table (name, surname) VALUES ('Gena', 'Rowlands');",
+        "name": "PGLite Fixed Statement",
+        "x": 890,
+        "y": 660,
+        "wires": [
+            [
+                "74bd49ced76f20f0"
+            ]
+        ]
+    },
+    {
+        "id": "466131a38f0a1b52",
+        "type": "pglite",
+        "z": "cf04d80643a320a1",
+        "g": "d4d22c41530bea4e",
+        "mydb": "848d747437c7533e",
+        "sqlquery": "batch",
+        "sql": "",
+        "name": "PGLite Batch Without Response",
+        "x": 910,
+        "y": 760,
+        "wires": [
+            [
+                "a97e97a95e0b66c9"
+            ]
+        ]
+    },
+    {
+        "id": "74bd49ced76f20f0",
+        "type": "debug",
+        "z": "cf04d80643a320a1",
+        "g": "d4d22c41530bea4e",
+        "name": "debug 5",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1120,
+        "y": 660,
+        "wires": []
+    },
+    {
+        "id": "a97e97a95e0b66c9",
+        "type": "debug",
+        "z": "cf04d80643a320a1",
+        "g": "d4d22c41530bea4e",
+        "name": "debug 7",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1140,
+        "y": 760,
+        "wires": []
+    },
+    {
+        "id": "4fdb89ba37b64976",
+        "type": "pglite",
+        "z": "cf04d80643a320a1",
+        "g": "c649d77db751c0e2",
+        "mydb": "f8f2c7b2e17c59de",
+        "sqlquery": "msg.topic",
+        "sql": "",
+        "name": "PGLite In-Memory via msg.topic",
+        "x": 890,
+        "y": 1360,
+        "wires": [
+            [
+                "5c217b368b7df99a"
+            ]
+        ]
+    },
+    {
+        "id": "7afafec338739d5e",
+        "type": "function",
+        "z": "cf04d80643a320a1",
+        "g": "c649d77db751c0e2",
+        "name": "Create",
+        "func": "msg.topic = \"CREATE TABLE user_table (name TEXT, surname TEXT)\";\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 510,
+        "y": 1120,
+        "wires": [
+            [
+                "4fdb89ba37b64976"
+            ]
+        ]
+    },
+    {
+        "id": "e8a9b09dbf851601",
+        "type": "inject",
+        "z": "cf04d80643a320a1",
+        "g": "c649d77db751c0e2",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 260,
+        "y": 1120,
+        "wires": [
+            [
+                "7afafec338739d5e"
+            ]
+        ]
+    },
+    {
+        "id": "5c217b368b7df99a",
+        "type": "debug",
+        "z": "cf04d80643a320a1",
+        "g": "c649d77db751c0e2",
+        "name": "debug 8",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1180,
+        "y": 1360,
+        "wires": []
+    },
+    {
+        "id": "27d77188c747290b",
+        "type": "function",
+        "z": "cf04d80643a320a1",
+        "g": "c649d77db751c0e2",
+        "name": "Insert Simple",
+        "func": "msg.topic = \"INSERT INTO user_table (name, surname) VALUES ('John', 'Smith');\"\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 530,
+        "y": 1280,
+        "wires": [
+            [
+                "4fdb89ba37b64976"
+            ]
+        ]
+    },
+    {
+        "id": "2c92ad67efe51972",
+        "type": "function",
+        "z": "cf04d80643a320a1",
+        "g": "c649d77db751c0e2",
+        "name": "Select",
+        "func": "msg.topic = `SELECT * from user_table`\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 510,
+        "y": 1180,
+        "wires": [
+            [
+                "4fdb89ba37b64976"
+            ]
+        ]
+    },
+    {
+        "id": "1cd3da5b27d35d71",
+        "type": "inject",
+        "z": "cf04d80643a320a1",
+        "g": "c649d77db751c0e2",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 260,
+        "y": 1280,
+        "wires": [
+            [
+                "27d77188c747290b"
+            ]
+        ]
+    },
+    {
+        "id": "de8e320a69938d7f",
+        "type": "inject",
+        "z": "cf04d80643a320a1",
+        "g": "c649d77db751c0e2",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 260,
+        "y": 1180,
+        "wires": [
+            [
+                "2c92ad67efe51972"
+            ]
+        ]
+    },
+    {
+        "id": "edab672afbd613e1",
+        "type": "function",
+        "z": "cf04d80643a320a1",
+        "g": "c649d77db751c0e2",
+        "name": "Insert with Params",
+        "func": "msg.topic = `INSERT INTO user_table (name, surname) VALUES ($1, $2)`\nmsg.payload = [\"Mary\", \"Jones\"]\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 550,
+        "y": 1340,
+        "wires": [
+            [
+                "4fdb89ba37b64976"
+            ]
+        ]
+    },
+    {
+        "id": "6b8a8db517882838",
+        "type": "inject",
+        "z": "cf04d80643a320a1",
+        "g": "c649d77db751c0e2",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 260,
+        "y": 1340,
+        "wires": [
+            [
+                "edab672afbd613e1"
+            ]
+        ]
+    },
+    {
+        "id": "b6d2d8c84a96b12a",
+        "type": "comment",
+        "z": "cf04d80643a320a1",
+        "g": "c649d77db751c0e2",
+        "name": "In-Memory Tests",
+        "info": "",
+        "x": 260,
+        "y": 1040,
+        "wires": []
+    },
+    {
+        "id": "9260fa877572a1b2",
+        "type": "comment",
+        "z": "cf04d80643a320a1",
+        "g": "d4d22c41530bea4e",
+        "name": "File-Based Tests",
+        "info": "",
+        "x": 260,
+        "y": 220,
+        "wires": []
+    },
+    {
+        "id": "2eee0661fe6e5e07",
+        "type": "comment",
+        "z": "cf04d80643a320a1",
+        "name": "Various PGLite Tests",
+        "info": "",
+        "x": 250,
+        "y": 80,
+        "wires": [],
+        "icon": "font-awesome/fa-user-plus"
+    },
+    {
+        "id": "ec88e8513e1fb517",
+        "type": "inject",
+        "z": "cf04d80643a320a1",
+        "g": "d4d22c41530bea4e",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 260,
+        "y": 820,
+        "wires": [
+            [
+                "3548b0bce59a4628"
+            ]
+        ]
+    },
+    {
+        "id": "3548b0bce59a4628",
+        "type": "function",
+        "z": "cf04d80643a320a1",
+        "g": "d4d22c41530bea4e",
+        "name": "Select from earlier Batch",
+        "func": "msg.topic = `SELECT * from people_stats`\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 550,
+        "y": 820,
+        "wires": [
+            [
+                "2507a5a1d57854b8"
+            ]
+        ]
+    },
+    {
+        "id": "2507a5a1d57854b8",
+        "type": "pglite",
+        "z": "cf04d80643a320a1",
+        "g": "d4d22c41530bea4e",
+        "mydb": "848d747437c7533e",
+        "sqlquery": "msg.topic",
+        "sql": "",
+        "name": "PGLite via msg.topic",
+        "x": 880,
+        "y": 820,
+        "wires": [
+            [
+                "343f4bfcea6d192c"
+            ]
+        ]
+    },
+    {
+        "id": "343f4bfcea6d192c",
+        "type": "debug",
+        "z": "cf04d80643a320a1",
+        "g": "d4d22c41530bea4e",
+        "name": "debug 9",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1120,
+        "y": 820,
+        "wires": []
+    },
+    {
+        "id": "c848dec79e804bd3",
+        "type": "comment",
+        "z": "cf04d80643a320a1",
+        "g": "c3d2e2c90eae726e",
+        "name": "Test hstore key/value datatype and extension",
+        "info": "",
+        "x": 350,
+        "y": 1540,
+        "wires": []
+    },
+    {
+        "id": "ee983d73a7b14a8e",
+        "type": "inject",
+        "z": "cf04d80643a320a1",
+        "g": "c3d2e2c90eae726e",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 260,
+        "y": 1620,
+        "wires": [
+            [
+                "1a3c66a399ebb539"
+            ]
+        ]
+    },
+    {
+        "id": "1a3c66a399ebb539",
+        "type": "function",
+        "z": "cf04d80643a320a1",
+        "g": "c3d2e2c90eae726e",
+        "name": "Creat hstore table",
+        "func": "msg.topic = `\nCREATE TABLE hstore_table (h hstore);\nINSERT INTO hstore_table VALUES ('a=>b, c=>d');\n`\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 570,
+        "y": 1620,
+        "wires": [
+            [
+                "d52d07c03693bd72"
+            ]
+        ]
+    },
+    {
+        "id": "d52d07c03693bd72",
+        "type": "pglite",
+        "z": "cf04d80643a320a1",
+        "g": "c3d2e2c90eae726e",
+        "mydb": "cc8481a70ccc20d0",
+        "sqlquery": "batch",
+        "sql": "",
+        "name": "Batch run Hstore setup",
+        "x": 890,
+        "y": 1620,
+        "wires": [
+            [
+                "3e8921245d1fc8dd"
+            ]
+        ]
+    },
+    {
+        "id": "9a2dd2efa2443483",
+        "type": "inject",
+        "z": "cf04d80643a320a1",
+        "g": "c3d2e2c90eae726e",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 260,
+        "y": 1700,
+        "wires": [
+            [
+                "04b8778a165c3d64"
+            ]
+        ]
+    },
+    {
+        "id": "04b8778a165c3d64",
+        "type": "function",
+        "z": "cf04d80643a320a1",
+        "g": "c3d2e2c90eae726e",
+        "name": "Select from earlier Batch",
+        "func": "msg.topic = `SELECT h['a'] FROM hstore_table;`\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 590,
+        "y": 1700,
+        "wires": [
+            [
+                "f217bbe2e3f378ad"
+            ]
+        ]
+    },
+    {
+        "id": "f217bbe2e3f378ad",
+        "type": "pglite",
+        "z": "cf04d80643a320a1",
+        "g": "c3d2e2c90eae726e",
+        "mydb": "cc8481a70ccc20d0",
+        "sqlquery": "msg.topic",
+        "sql": "",
+        "name": "HStore via msg.topic",
+        "x": 880,
+        "y": 1700,
+        "wires": [
+            [
+                "8fa56b0a7fc1397e"
+            ]
+        ]
+    },
+    {
+        "id": "8fa56b0a7fc1397e",
+        "type": "debug",
+        "z": "cf04d80643a320a1",
+        "g": "c3d2e2c90eae726e",
+        "name": "debug 10",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1140,
+        "y": 1700,
+        "wires": []
+    },
+    {
+        "id": "3e8921245d1fc8dd",
+        "type": "debug",
+        "z": "cf04d80643a320a1",
+        "g": "c3d2e2c90eae726e",
+        "name": "debug 11",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1140,
+        "y": 1620,
+        "wires": []
+    },
+    {
+        "id": "16d50bf7c8d7f9e7",
+        "type": "comment",
+        "z": "cf04d80643a320a1",
+        "g": "d1f68ea0966202a7",
+        "name": "Test PGVector extension",
+        "info": "",
+        "x": 290,
+        "y": 1860,
+        "wires": []
+    },
+    {
+        "id": "33631d1d9fd93b28",
+        "type": "inject",
+        "z": "cf04d80643a320a1",
+        "g": "d1f68ea0966202a7",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 260,
+        "y": 1940,
+        "wires": [
+            [
+                "6c0599200b17017b"
+            ]
+        ]
+    },
+    {
+        "id": "6c0599200b17017b",
+        "type": "function",
+        "z": "cf04d80643a320a1",
+        "g": "d1f68ea0966202a7",
+        "name": "Creat pgvector table",
+        "func": "msg.topic = `\n  CREATE TABLE IF NOT EXISTS pgvector_test (\n    id SERIAL PRIMARY KEY,\n    name TEXT,\n    vec vector(3)\n);\n\nINSERT INTO pgvector_test (name, vec) VALUES ('test1', '[1,2,3]');\nINSERT INTO pgvector_test (name, vec) VALUES ('test2', '[4,5,6]');\nINSERT INTO pgvector_test (name, vec) VALUES ('test3', '[7,8,9]');\n`\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 580,
+        "y": 1940,
+        "wires": [
+            [
+                "e951f1739a9549a7"
+            ]
+        ]
+    },
+    {
+        "id": "e951f1739a9549a7",
+        "type": "pglite",
+        "z": "cf04d80643a320a1",
+        "g": "d1f68ea0966202a7",
+        "mydb": "cc8481a70ccc20d0",
+        "sqlquery": "batch",
+        "sql": "",
+        "name": "Batch run pgvector setup",
+        "x": 890,
+        "y": 1940,
+        "wires": [
+            [
+                "44b4b39bf8677ee9"
+            ]
+        ]
+    },
+    {
+        "id": "b3eaa3e5960b7b9e",
+        "type": "inject",
+        "z": "cf04d80643a320a1",
+        "g": "d1f68ea0966202a7",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 260,
+        "y": 2020,
+        "wires": [
+            [
+                "1444f6e7102955c5"
+            ]
+        ]
+    },
+    {
+        "id": "1444f6e7102955c5",
+        "type": "function",
+        "z": "cf04d80643a320a1",
+        "g": "d1f68ea0966202a7",
+        "name": "Select from earlier Batch",
+        "func": "msg.topic = `SELECT * FROM pgvector_test;`\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 590,
+        "y": 2020,
+        "wires": [
+            [
+                "ab617e0c3065d074"
+            ]
+        ]
+    },
+    {
+        "id": "ab617e0c3065d074",
+        "type": "pglite",
+        "z": "cf04d80643a320a1",
+        "g": "d1f68ea0966202a7",
+        "mydb": "cc8481a70ccc20d0",
+        "sqlquery": "msg.topic",
+        "sql": "",
+        "name": "pgvector via msg.topic",
+        "x": 880,
+        "y": 2020,
+        "wires": [
+            [
+                "ae090f897bfaeca3"
+            ]
+        ]
+    },
+    {
+        "id": "ae090f897bfaeca3",
+        "type": "debug",
+        "z": "cf04d80643a320a1",
+        "g": "d1f68ea0966202a7",
+        "name": "debug 12",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1140,
+        "y": 2020,
+        "wires": []
+    },
+    {
+        "id": "44b4b39bf8677ee9",
+        "type": "debug",
+        "z": "cf04d80643a320a1",
+        "g": "d1f68ea0966202a7",
+        "name": "debug 13",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1140,
+        "y": 1940,
+        "wires": []
+    },
+    {
+        "id": "5c4f4ca0f5697f35",
+        "type": "inject",
+        "z": "cf04d80643a320a1",
+        "g": "d1f68ea0966202a7",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 260,
+        "y": 2080,
+        "wires": [
+            [
+                "47f13ad478205d02"
+            ]
+        ]
+    },
+    {
+        "id": "47f13ad478205d02",
+        "type": "function",
+        "z": "cf04d80643a320a1",
+        "g": "d1f68ea0966202a7",
+        "name": "Select Vector from earlier Batch",
+        "func": "msg.topic = `SELECT\n    name,\n    vec,\n    vec <-> '[3,1,2]' AS distance\n  FROM pgvector_test;\n `\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 610,
+        "y": 2080,
+        "wires": [
+            [
+                "2d36d7faa0b1f9fe"
+            ]
+        ]
+    },
+    {
+        "id": "2d36d7faa0b1f9fe",
+        "type": "pglite",
+        "z": "cf04d80643a320a1",
+        "g": "d1f68ea0966202a7",
+        "mydb": "cc8481a70ccc20d0",
+        "sqlquery": "msg.topic",
+        "sql": "",
+        "name": "pgvector via msg.topic",
+        "x": 880,
+        "y": 2080,
+        "wires": [
+            [
+                "71776daa1a7ee6ce"
+            ]
+        ]
+    },
+    {
+        "id": "71776daa1a7ee6ce",
+        "type": "debug",
+        "z": "cf04d80643a320a1",
+        "g": "d1f68ea0966202a7",
+        "name": "debug 14",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1140,
+        "y": 2080,
+        "wires": []
+    },
+    {
+        "id": "967cdbf7d7248b8e",
+        "type": "pglite",
+        "z": "cf04d80643a320a1",
+        "g": "c2d9e0fc1f46a1c5",
+        "mydb": "2451d72654b1393a",
+        "sqlquery": "batch",
+        "sql": "",
+        "name": "PGLite Restaurant Reviews Batch",
+        "x": 860,
+        "y": 2300,
+        "wires": [
+            [
+                "156793d7706d60a2"
+            ]
+        ]
+    },
+    {
+        "id": "156793d7706d60a2",
+        "type": "debug",
+        "z": "cf04d80643a320a1",
+        "g": "c2d9e0fc1f46a1c5",
+        "name": "debug 15",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1140,
+        "y": 2300,
+        "wires": []
+    },
+    {
+        "id": "7cd351b0173c8458",
+        "type": "function",
+        "z": "cf04d80643a320a1",
+        "g": "c2d9e0fc1f46a1c5",
+        "name": "Create Tables and Populate",
+        "func": "msg.topic = `\nCREATE TABLE Users (\n    user_id SERIAL PRIMARY KEY,\n    username VARCHAR(50) NOT NULL,\n    email VARCHAR(100) NOT NULL UNIQUE\n);\n\nCREATE TABLE Restaurants (\n    restaurant_id SERIAL PRIMARY KEY,\n    name VARCHAR(100) NOT NULL,\n    address VARCHAR(255) NOT NULL,\n    phone_number VARCHAR(20),\n    website VARCHAR(100)\n);\n\nCREATE TABLE Reviews (\n    review_id SERIAL PRIMARY KEY,\n    restaurant_id INT REFERENCES Restaurants(restaurant_id) ON DELETE CASCADE,\n    user_id INT REFERENCES Users(user_id) ON DELETE CASCADE,\n    rating INT CHECK (rating >= 1 AND rating <= 5),\n    comment TEXT,\n    review_date TIMESTAMP DEFAULT CURRENT_TIMESTAMP\n);\n\nINSERT INTO Users (username, email) VALUES\n('JohnDoe', 'john@example.com'),\n('JaneDoe', 'jane@example.com'),\n('MikeSmith', 'mike@example.com'),\n('SarahLee', 'sarah@example.com');\n\nINSERT INTO Restaurants (name, address, phone_number, website) VALUES\n('Pasta Palace', '1234 Elm St, Springfield, IL', '555-1234', 'http://pastapalace.com'),\n('Burger Barn', '5678 Oak St, Springfield, IL', '555-5678', 'http://burgerbarn.com'),\n('Taco Town', '9101 Maple St, Springfield, IL', '555-9101', 'http://tacotown.com'),\n('Sushi Central', '1213 Pine St, Springfield, IL', '555-1213', 'http://sushicentral.com'),\n('Pizza Planet', '1415 Cedar St, Springfield, IL', '555-1415', 'http://pizzaplanet.com');\n\nINSERT INTO Reviews (restaurant_id, user_id, rating, comment) VALUES\n(1, 1, 5, 'Amazing pasta, will definitely come back!'),\n(1, 2, 4, 'Good food, but service could be better.'),\n(1, 3, 3, 'Average experience, nothing special.'),\n(1, 4, 4, 'Loved the ambiance, pasta was great!'),\n\n(2, 1, 5, 'Best burgers in town!'),\n(2, 2, 4, 'Great taste, slightly overpriced.'),\n(2, 3, 4, 'Very good, but could use more options.'),\n(2, 4, 3, 'Decent food, but not worth the hype.'),\n\n(3, 1, 5, 'Delicious tacos, highly recommend!'),\n(3, 2, 4, 'Tasty, but the portions are small.'),\n(3, 3, 2, 'Disappointing, expected better.'),\n(3, 4, 4, 'Great flavors, will come again.'),\n\n(4, 1, 5, 'Best sushi I have ever had!'),\n(4, 2, 4, 'Very good sushi, a bit pricey.'),\n(4, 3, 3, 'Average sushi, expected more.'),\n(4, 4, 4, 'Good quality, but service was slow.'),\n\n(5, 1, 5, 'Amazing pizza, just like in Italy!'),\n(5, 2, 5, 'Loved the crust, will order again.'),\n(5, 3, 4, 'Great pizza, but long wait time.'),\n(5, 4, 4, 'Good pizza, but a bit greasy.');\n\n`\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 560,
+        "y": 2300,
+        "wires": [
+            [
+                "967cdbf7d7248b8e"
+            ]
+        ]
+    },
+    {
+        "id": "209207679a8a4185",
+        "type": "inject",
+        "z": "cf04d80643a320a1",
+        "g": "c2d9e0fc1f46a1c5",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 260,
+        "y": 2300,
+        "wires": [
+            [
+                "7cd351b0173c8458"
+            ]
+        ]
+    },
+    {
+        "id": "9d29f8fc5bf2e23f",
+        "type": "pglite",
+        "z": "cf04d80643a320a1",
+        "g": "c2d9e0fc1f46a1c5",
+        "mydb": "2451d72654b1393a",
+        "sqlquery": "msg.topic",
+        "sql": "",
+        "name": "PGLite Restaurant Reviews",
+        "x": 860,
+        "y": 2360,
+        "wires": [
+            [
+                "1c6b22f7f5ebe63f"
+            ]
+        ]
+    },
+    {
+        "id": "1c6b22f7f5ebe63f",
+        "type": "debug",
+        "z": "cf04d80643a320a1",
+        "g": "c2d9e0fc1f46a1c5",
+        "name": "debug 16",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1140,
+        "y": 2360,
+        "wires": []
+    },
+    {
+        "id": "28e2dcd2d17ffb9f",
+        "type": "function",
+        "z": "cf04d80643a320a1",
+        "g": "c2d9e0fc1f46a1c5",
+        "name": "Select Restaurants and Ratings",
+        "func": "msg.topic = `\nSELECT r.name AS restaurant_name, \n       AVG(rv.rating) AS average_rating\nFROM Restaurants r\nJOIN Reviews rv ON r.restaurant_id = rv.restaurant_id\nGROUP BY r.name\nORDER BY average_rating DESC;\n\n`\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 570,
+        "y": 2360,
+        "wires": [
+            [
+                "9d29f8fc5bf2e23f"
+            ]
+        ]
+    },
+    {
+        "id": "caa84b0bbf2de8d2",
+        "type": "inject",
+        "z": "cf04d80643a320a1",
+        "g": "c2d9e0fc1f46a1c5",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 260,
+        "y": 2360,
+        "wires": [
+            [
+                "28e2dcd2d17ffb9f"
+            ]
+        ]
+    },
+    {
+        "id": "27dcdcbd23d712c3",
+        "type": "pglite",
+        "z": "cf04d80643a320a1",
+        "g": "c2d9e0fc1f46a1c5",
+        "mydb": "2451d72654b1393a",
+        "sqlquery": "msg.topic",
+        "sql": "",
+        "name": "PGLite Restaurant Reviews",
+        "x": 860,
+        "y": 2400,
+        "wires": [
+            [
+                "02dc031f03c57aab"
+            ]
+        ]
+    },
+    {
+        "id": "02dc031f03c57aab",
+        "type": "debug",
+        "z": "cf04d80643a320a1",
+        "g": "c2d9e0fc1f46a1c5",
+        "name": "debug 17",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1140,
+        "y": 2400,
+        "wires": []
+    },
+    {
+        "id": "6eb4a849e5ad1fb8",
+        "type": "function",
+        "z": "cf04d80643a320a1",
+        "g": "c2d9e0fc1f46a1c5",
+        "name": "All Reviews One Restaurant",
+        "func": "msg.topic = `\nSELECT u.username, rv.rating, rv.comment, rv.review_date\nFROM Reviews rv\nJOIN Users u ON rv.user_id = u.user_id\nJOIN Restaurants r ON rv.restaurant_id = r.restaurant_id\nWHERE r.name = 'Pasta Palace'\nORDER BY rv.review_date DESC;\n\n`\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 560,
+        "y": 2400,
+        "wires": [
+            [
+                "27dcdcbd23d712c3"
+            ]
+        ]
+    },
+    {
+        "id": "e285dfe6f655a9bd",
+        "type": "inject",
+        "z": "cf04d80643a320a1",
+        "g": "c2d9e0fc1f46a1c5",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 260,
+        "y": 2400,
+        "wires": [
+            [
+                "6eb4a849e5ad1fb8"
+            ]
+        ]
+    },
+    {
+        "id": "96bb953e67106ced",
+        "type": "comment",
+        "z": "cf04d80643a320a1",
+        "g": "c2d9e0fc1f46a1c5",
+        "name": "Test Multiple Tables/Relations",
+        "info": "",
+        "x": 300,
+        "y": 2240,
+        "wires": []
+    },
+    {
+        "id": "7f0d6c5677724877",
+        "type": "pglite",
+        "z": "cf04d80643a320a1",
+        "g": "c2d9e0fc1f46a1c5",
+        "mydb": "2451d72654b1393a",
+        "sqlquery": "msg.topic",
+        "sql": "",
+        "name": "PGLite Restaurant Reviews",
+        "x": 860,
+        "y": 2440,
+        "wires": [
+            [
+                "44e740b6ce0118d8"
+            ]
+        ]
+    },
+    {
+        "id": "44e740b6ce0118d8",
+        "type": "debug",
+        "z": "cf04d80643a320a1",
+        "g": "c2d9e0fc1f46a1c5",
+        "name": "debug 18",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1140,
+        "y": 2440,
+        "wires": []
+    },
+    {
+        "id": "38773597f52b3bfb",
+        "type": "function",
+        "z": "cf04d80643a320a1",
+        "g": "c2d9e0fc1f46a1c5",
+        "name": "Top 3",
+        "func": "msg.topic = `\nSELECT r.name AS restaurant_name, \n       AVG(rv.rating) AS average_rating\nFROM Restaurants r\nJOIN Reviews rv ON r.restaurant_id = rv.restaurant_id\nGROUP BY r.name\nORDER BY average_rating DESC\nLIMIT 3;\n\n`\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 490,
+        "y": 2440,
+        "wires": [
+            [
+                "7f0d6c5677724877"
+            ]
+        ]
+    },
+    {
+        "id": "a3b1469eb9950ff3",
+        "type": "inject",
+        "z": "cf04d80643a320a1",
+        "g": "c2d9e0fc1f46a1c5",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 260,
+        "y": 2440,
+        "wires": [
+            [
+                "38773597f52b3bfb"
+            ]
+        ]
+    },
+    {
+        "id": "60afdc9f9b1ed4ea",
+        "type": "pglite",
+        "z": "cf04d80643a320a1",
+        "g": "c2d9e0fc1f46a1c5",
+        "mydb": "2451d72654b1393a",
+        "sqlquery": "msg.topic",
+        "sql": "",
+        "name": "PGLite Restaurant Reviews",
+        "x": 860,
+        "y": 2480,
+        "wires": [
+            [
+                "0cd8b7765f37253f"
+            ]
+        ]
+    },
+    {
+        "id": "0cd8b7765f37253f",
+        "type": "debug",
+        "z": "cf04d80643a320a1",
+        "g": "c2d9e0fc1f46a1c5",
+        "name": "debug 19",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1140,
+        "y": 2480,
+        "wires": []
+    },
+    {
+        "id": "16944fb70356a25b",
+        "type": "function",
+        "z": "cf04d80643a320a1",
+        "g": "c2d9e0fc1f46a1c5",
+        "name": "One Reviewer",
+        "func": "msg.topic = `\nSELECT r.name AS restaurant_name, rv.rating, rv.comment, rv.review_date\nFROM Reviews rv\nJOIN Restaurants r ON rv.restaurant_id = r.restaurant_id\nJOIN Users u ON rv.user_id = u.user_id\nWHERE u.username = 'JohnDoe'\nORDER BY rv.review_date DESC;\n\n`\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 520,
+        "y": 2480,
+        "wires": [
+            [
+                "60afdc9f9b1ed4ea"
+            ]
+        ]
+    },
+    {
+        "id": "66038b1e8a8507c6",
+        "type": "inject",
+        "z": "cf04d80643a320a1",
+        "g": "c2d9e0fc1f46a1c5",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 260,
+        "y": 2480,
+        "wires": [
+            [
+                "16944fb70356a25b"
+            ]
+        ]
+    },
+    {
+        "id": "351c2888b74eebdf",
+        "type": "pglite",
+        "z": "cf04d80643a320a1",
+        "g": "c2d9e0fc1f46a1c5",
+        "mydb": "2451d72654b1393a",
+        "sqlquery": "msg.topic",
+        "sql": "",
+        "name": "PGLite Restaurant Reviews",
+        "x": 860,
+        "y": 2520,
+        "wires": [
+            [
+                "3b1784287fcc2ccb"
+            ]
+        ]
+    },
+    {
+        "id": "3b1784287fcc2ccb",
+        "type": "debug",
+        "z": "cf04d80643a320a1",
+        "g": "c2d9e0fc1f46a1c5",
+        "name": "debug 20",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1140,
+        "y": 2520,
+        "wires": []
+    },
+    {
+        "id": "fc0a00d540f12a3c",
+        "type": "function",
+        "z": "cf04d80643a320a1",
+        "g": "c2d9e0fc1f46a1c5",
+        "name": "Reviews per Restaurant",
+        "func": "msg.topic = `\nSELECT r.name AS restaurant_name, \n       COUNT(rv.review_id) AS review_count\nFROM Restaurants r\nJOIN Reviews rv ON r.restaurant_id = rv.restaurant_id\nGROUP BY r.name\nORDER BY review_count DESC;\n\n`\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 550,
+        "y": 2520,
+        "wires": [
+            [
+                "351c2888b74eebdf"
+            ]
+        ]
+    },
+    {
+        "id": "56ac83030b76847e",
+        "type": "inject",
+        "z": "cf04d80643a320a1",
+        "g": "c2d9e0fc1f46a1c5",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 260,
+        "y": 2520,
+        "wires": [
+            [
+                "fc0a00d540f12a3c"
+            ]
+        ]
+    },
+    {
+        "id": "8c97314c9d1bb85c",
+        "type": "pglite",
+        "z": "cf04d80643a320a1",
+        "g": "c2d9e0fc1f46a1c5",
+        "mydb": "2451d72654b1393a",
+        "sqlquery": "msg.topic",
+        "sql": "",
+        "name": "PGLite Restaurant Reviews",
+        "x": 860,
+        "y": 2560,
+        "wires": [
+            [
+                "c61e7f4d2b4bde5e"
+            ]
+        ]
+    },
+    {
+        "id": "c61e7f4d2b4bde5e",
+        "type": "debug",
+        "z": "cf04d80643a320a1",
+        "g": "c2d9e0fc1f46a1c5",
+        "name": "debug 21",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1140,
+        "y": 2560,
+        "wires": []
+    },
+    {
+        "id": "034cc3a1e52d3fcb",
+        "type": "function",
+        "z": "cf04d80643a320a1",
+        "g": "c2d9e0fc1f46a1c5",
+        "name": "No Reviews for Restaurant",
+        "func": "msg.topic = `\nSELECT r.name AS restaurant_name\nFROM Restaurants r\nLEFT JOIN Reviews rv ON r.restaurant_id = rv.restaurant_id\nWHERE rv.review_id IS NULL;\n\n`\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 560,
+        "y": 2560,
+        "wires": [
+            [
+                "8c97314c9d1bb85c"
+            ]
+        ]
+    },
+    {
+        "id": "ed0e5098e3efa658",
+        "type": "inject",
+        "z": "cf04d80643a320a1",
+        "g": "c2d9e0fc1f46a1c5",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 260,
+        "y": 2560,
+        "wires": [
+            [
+                "034cc3a1e52d3fcb"
+            ]
+        ]
+    },
+    {
+        "id": "891a7b20499cc370",
+        "type": "pglite",
+        "z": "cf04d80643a320a1",
+        "g": "c2d9e0fc1f46a1c5",
+        "mydb": "2451d72654b1393a",
+        "sqlquery": "msg.topic",
+        "sql": "",
+        "name": "PGLite Restaurant Reviews",
+        "x": 860,
+        "y": 2600,
+        "wires": [
+            [
+                "e707aba7b381aab2"
+            ]
+        ]
+    },
+    {
+        "id": "e707aba7b381aab2",
+        "type": "debug",
+        "z": "cf04d80643a320a1",
+        "g": "c2d9e0fc1f46a1c5",
+        "name": "debug 22",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1140,
+        "y": 2600,
+        "wires": []
+    },
+    {
+        "id": "afc2f78bc35c072e",
+        "type": "function",
+        "z": "cf04d80643a320a1",
+        "g": "c2d9e0fc1f46a1c5",
+        "name": "Latest Reviews per Restaurant",
+        "func": "msg.topic = `\nSELECT r.name AS restaurant_name, \n       u.username, \n       rv.rating, \n       rv.comment, \n       rv.review_date\nFROM Reviews rv\nJOIN Users u ON rv.user_id = u.user_id\nJOIN Restaurants r ON rv.restaurant_id = r.restaurant_id\nWHERE (r.restaurant_id, rv.review_date) IN (\n    SELECT restaurant_id, MAX(review_date)\n    FROM Reviews\n    GROUP BY restaurant_id\n)\nORDER BY rv.review_date DESC;\n\n`\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 570,
+        "y": 2600,
+        "wires": [
+            [
+                "891a7b20499cc370"
+            ]
+        ]
+    },
+    {
+        "id": "f7e4257bc76b05eb",
+        "type": "inject",
+        "z": "cf04d80643a320a1",
+        "g": "c2d9e0fc1f46a1c5",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 260,
+        "y": 2600,
+        "wires": [
+            [
+                "afc2f78bc35c072e"
+            ]
+        ]
+    },
+    {
+        "id": "56692d008a0cdcb9",
+        "type": "pglite",
+        "z": "cf04d80643a320a1",
+        "g": "c2d9e0fc1f46a1c5",
+        "mydb": "2451d72654b1393a",
+        "sqlquery": "msg.topic",
+        "sql": "",
+        "name": "PGLite Restaurant Reviews",
+        "x": 860,
+        "y": 2640,
+        "wires": [
+            [
+                "ca2c9bec1d528199"
+            ]
+        ]
+    },
+    {
+        "id": "ca2c9bec1d528199",
+        "type": "debug",
+        "z": "cf04d80643a320a1",
+        "g": "c2d9e0fc1f46a1c5",
+        "name": "debug 23",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1140,
+        "y": 2640,
+        "wires": []
+    },
+    {
+        "id": "898584af280b6ee7",
+        "type": "function",
+        "z": "cf04d80643a320a1",
+        "g": "c2d9e0fc1f46a1c5",
+        "name": "Five Star Reviewers",
+        "func": "msg.topic = `\nSELECT DISTINCT u.username\nFROM Reviews rv\nJOIN Users u ON rv.user_id = u.user_id\nWHERE rv.rating = 5;\n\n`\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 540,
+        "y": 2640,
+        "wires": [
+            [
+                "56692d008a0cdcb9"
+            ]
+        ]
+    },
+    {
+        "id": "3da055a094061dc0",
+        "type": "inject",
+        "z": "cf04d80643a320a1",
+        "g": "c2d9e0fc1f46a1c5",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 260,
+        "y": 2640,
+        "wires": [
+            [
+                "898584af280b6ee7"
+            ]
+        ]
+    },
+    {
+        "id": "95790ed47c108e6d",
+        "type": "pglite",
+        "z": "cf04d80643a320a1",
+        "g": "c2d9e0fc1f46a1c5",
+        "mydb": "2451d72654b1393a",
+        "sqlquery": "msg.topic",
+        "sql": "",
+        "name": "PGLite Restaurant Reviews",
+        "x": 860,
+        "y": 2680,
+        "wires": [
+            [
+                "482a363e53d75210"
+            ]
+        ]
+    },
+    {
+        "id": "482a363e53d75210",
+        "type": "debug",
+        "z": "cf04d80643a320a1",
+        "g": "c2d9e0fc1f46a1c5",
+        "name": "debug 24",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1140,
+        "y": 2680,
+        "wires": []
+    },
+    {
+        "id": "7c6ccbac852dd45e",
+        "type": "function",
+        "z": "cf04d80643a320a1",
+        "g": "c2d9e0fc1f46a1c5",
+        "name": "Average Rating by Reviewer",
+        "func": "msg.topic = `\nSELECT u.username, \n       AVG(rv.rating) AS average_rating\nFROM Reviews rv\nJOIN Users u ON rv.user_id = u.user_id\nGROUP BY u.username\nORDER BY average_rating DESC;\n\n`\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 560,
+        "y": 2680,
+        "wires": [
+            [
+                "95790ed47c108e6d"
+            ]
+        ]
+    },
+    {
+        "id": "4fb5403321935ff2",
+        "type": "inject",
+        "z": "cf04d80643a320a1",
+        "g": "c2d9e0fc1f46a1c5",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 260,
+        "y": 2680,
+        "wires": [
+            [
+                "7c6ccbac852dd45e"
+            ]
+        ]
+    },
+    {
+        "id": "d2158b3744467ef5",
+        "type": "pglite",
+        "z": "cf04d80643a320a1",
+        "g": "c2d9e0fc1f46a1c5",
+        "mydb": "2451d72654b1393a",
+        "sqlquery": "msg.topic",
+        "sql": "",
+        "name": "PGLite Restaurant Reviews",
+        "x": 860,
+        "y": 2720,
+        "wires": [
+            [
+                "94496456fd89f790"
+            ]
+        ]
+    },
+    {
+        "id": "94496456fd89f790",
+        "type": "debug",
+        "z": "cf04d80643a320a1",
+        "g": "c2d9e0fc1f46a1c5",
+        "name": "debug 25",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1140,
+        "y": 2720,
+        "wires": []
+    },
+    {
+        "id": "6ba0e4c54578308f",
+        "type": "function",
+        "z": "cf04d80643a320a1",
+        "g": "c2d9e0fc1f46a1c5",
+        "name": "Low Rated Restaurants",
+        "func": "msg.topic = `\nSELECT r.name AS restaurant_name, \n       AVG(rv.rating) AS average_rating\nFROM Restaurants r\nJOIN Reviews rv ON r.restaurant_id = rv.restaurant_id\nGROUP BY r.name\nHAVING AVG(rv.rating) < 3\nORDER BY average_rating ASC;\n\n`\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 550,
+        "y": 2720,
+        "wires": [
+            [
+                "d2158b3744467ef5"
+            ]
+        ]
+    },
+    {
+        "id": "9fddfb0592419efa",
+        "type": "inject",
+        "z": "cf04d80643a320a1",
+        "g": "c2d9e0fc1f46a1c5",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 260,
+        "y": 2720,
+        "wires": [
+            [
+                "6ba0e4c54578308f"
+            ]
+        ]
+    },
+    {
+        "id": "faed31e9556a2950",
+        "type": "pglite",
+        "z": "cf04d80643a320a1",
+        "g": "41d9983c9266a4ed",
+        "mydb": "2b5e56922549c4c8",
+        "sqlquery": "batch",
+        "sql": "",
+        "name": "PGLite FTS",
+        "x": 790,
+        "y": 2940,
+        "wires": [
+            [
+                "302b7784fe896ea3"
+            ]
+        ]
+    },
+    {
+        "id": "302b7784fe896ea3",
+        "type": "debug",
+        "z": "cf04d80643a320a1",
+        "g": "41d9983c9266a4ed",
+        "name": "debug 26",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1140,
+        "y": 2940,
+        "wires": []
+    },
+    {
+        "id": "6660f76bbbac8c94",
+        "type": "function",
+        "z": "cf04d80643a320a1",
+        "g": "41d9983c9266a4ed",
+        "name": "Create Tables and Populate",
+        "func": "msg.topic = `\nCREATE TABLE fts_example (\n    id serial PRIMARY KEY,\n    title text,\n    body text\n  );\n\n  INSERT INTO fts_example (title, body)\n  VALUES \n    ('The Fat Rats', 'The fat rats ate the fat cats.'),\n    ('The Fat Cats', 'The fat cats ate the fat rats.'),\n    ('The Fat Cats and Rats', 'The fat cats and rats ate the fat rats and cats.');\n\n`\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 560,
+        "y": 2940,
+        "wires": [
+            [
+                "faed31e9556a2950"
+            ]
+        ]
+    },
+    {
+        "id": "f60f24a4fab37424",
+        "type": "inject",
+        "z": "cf04d80643a320a1",
+        "g": "41d9983c9266a4ed",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 260,
+        "y": 2940,
+        "wires": [
+            [
+                "6660f76bbbac8c94"
+            ]
+        ]
+    },
+    {
+        "id": "623a061a237d4625",
+        "type": "comment",
+        "z": "cf04d80643a320a1",
+        "g": "41d9983c9266a4ed",
+        "name": "Test Full Text Search",
+        "info": "",
+        "x": 270,
+        "y": 2880,
+        "wires": []
+    },
+    {
+        "id": "ee1257cd0668caec",
+        "type": "pglite",
+        "z": "cf04d80643a320a1",
+        "g": "41d9983c9266a4ed",
+        "mydb": "2b5e56922549c4c8",
+        "sqlquery": "msg.topic",
+        "sql": "",
+        "name": "PGLite FTS Query",
+        "x": 810,
+        "y": 3000,
+        "wires": [
+            [
+                "e60603a54d5091ab"
+            ]
+        ]
+    },
+    {
+        "id": "e60603a54d5091ab",
+        "type": "debug",
+        "z": "cf04d80643a320a1",
+        "g": "41d9983c9266a4ed",
+        "name": "debug 27",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1140,
+        "y": 3000,
+        "wires": []
+    },
+    {
+        "id": "8e25f585d98937c3",
+        "type": "function",
+        "z": "cf04d80643a320a1",
+        "g": "41d9983c9266a4ed",
+        "name": "Select Fat and Rat",
+        "func": "msg.topic = `\n  SELECT\n    title,\n    ts_rank_cd(\n      to_tsvector('english', body), to_tsquery('english', 'fat & rat')\n    ) as rank\n  FROM fts_example\n  ORDER BY rank DESC;\n\n`\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 530,
+        "y": 3000,
+        "wires": [
+            [
+                "ee1257cd0668caec"
+            ]
+        ]
+    },
+    {
+        "id": "c052a8eb466f947f",
+        "type": "inject",
+        "z": "cf04d80643a320a1",
+        "g": "41d9983c9266a4ed",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 260,
+        "y": 3000,
+        "wires": [
+            [
+                "8e25f585d98937c3"
+            ]
+        ]
+    },
+    {
+        "id": "848d747437c7533e",
+        "type": "pglitedb",
+        "db": "/home/pi/pgdata-node-red"
+    },
+    {
+        "id": "f8f2c7b2e17c59de",
+        "type": "pglitedb",
+        "db": ":memory:"
+    },
+    {
+        "id": "cc8481a70ccc20d0",
+        "type": "pglitedb",
+        "db": "/home/pi/pglite-hstore"
+    },
+    {
+        "id": "2451d72654b1393a",
+        "type": "pglitedb",
+        "db": "/home/pi/pglite-restaurant-reviews"
+    },
+    {
+        "id": "2b5e56922549c4c8",
+        "type": "pglitedb",
+        "db": "/home/pi/pglite-fts"
+    }
+]

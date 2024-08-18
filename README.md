@@ -8,9 +8,14 @@ This module is a fork of [node-red-node-sqlite](https://github.com/node-red/node
 Install
 -------
 
-Run the following command in your Node-RED user directory - typically `~/.node-red`
+Until it's available in the Node-RED library, you install it as follows:
 
-    npm i --unsafe-perm node-red-node-pglite
+```
+cd
+git clone https://github.com/conoro/node-red-pglite.git
+cd ~/.node-red
+npm i ~/node-red-pglite
+```
 
 **Notes**:
 
