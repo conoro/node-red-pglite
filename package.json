@@ -1,0 +1,31 @@
+{
+    "name": "@conoro/node-red-pglite",
+    "version": "1.0.0",
+    "description": "A PGlite node for Node-RED",
+    "dependencies": {
+        "@electric-sql/pglite": "^0.2.2"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/conoro/node-red-pglite.git"
+    },
+    "engines": {
+        "node": ">=18"
+    },
+    "license": "Apache-2.0",
+    "keywords": [
+        "node-red",
+        "pglite"
+    ],
+    "node-red": {
+        "version": ">=4.0.0",
+        "nodes": {
+            "pglite": "pglite.js"
+        }
+    },
+    "author": {
+        "name": "Conor O'Neill",
+        "email": "conor@conoroneill.com",
+        "url": "https://conoroneill.com"
+    }
+}

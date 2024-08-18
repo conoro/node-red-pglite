@@ -1,0 +1,30 @@
+<script type="text/html" data-help-name="PGLite">
+    <p>Enables access to a PGlite database.</p>
+    <br />
+    <p>The SQL Query Type sets how the query is passed to the node.</p>
+    <br />
+    <p> SQL Query Type "via msg.topic" uses the db.query operation against the configured database. msg.topic must hold the query for the database.</p> 
+    <p>The parameters can be passed in the query using a msg.payload array. This allows for INSERTS, UPDATES and DELETES.</p> 
+    <p>SQL Injection is possible.</p> 
+    <p>In the current version of PGlite, named parameters are not supported yet, only numbered ones.</p>
+    <br />
+    <br />
+    <code>
+    msg.topic = `INSERT INTO user_table (name, surname) VALUES ($1, $2)`<br />
+    msg.payload = ["John", "Smith"]<br />
+    return msg;<br />
+    </code>
+    <br />
+    <br />
+    <p>SQL Query Type "Fixed Statement" uses the db.query operation against the configured database. No parameters are allowed.</p> 
+    <p>The query must be entered in the node config</p>
+    <br />
+    <p>SQL Query Type "Batch without response" uses db.exec which runs all SQL statements in the provided string in msg.topic. No parameters are allowed.</p> 
+    <p>No result rows are returned. It can be used for migrations etc.</p>
+    <br />
+    <p>Using any SQL Query, the result is returned in msg.payload</p>
+</script>
+
+<script type="text/html" data-help-name="PGLitedb">
+    <p>The default directory for the database file is the user's home directory through which the Node-RED process was started. You can specify absolute path to change it.</p>
+</script>

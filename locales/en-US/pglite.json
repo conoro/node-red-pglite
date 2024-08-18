@@ -1,0 +1,15 @@
+{
+  "pglite": {
+    "label": {
+      "database": "Database",
+      "sqlQuery": "SQL Query",
+      "viaMsgTopic": "Via msg.topic",
+      "fixedStatement": "Fixed Statement",
+      "batchWithoutResponse": "Batch without response",
+      "sqlStatement": "SQL Statement"
+    },
+    "tips": {
+      "memoryDb": "<b>Note</b>: Setting the database name to <code>:memory:</code> will create a non-persistent in-memory database."
+    }
+  }
+}
