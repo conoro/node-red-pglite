@@ -1,7 +1,7 @@
 node-red-node-pglite
 ====================
 
-A Node-RED node to read and write a local [PGlite](https://pglite.dev/) database. PGlite is a WASM build of Postgres, packaged into a TypeScript/JavaScript client library, that enables you to run Postgres in the browser, in Node.js and in Bun. It has support for many Postgres extensions, including pgvector. The Node.js support is what enables it to run in Node-RED.
+A Node-RED node to read and write local [PGlite](https://pglite.dev/) databases. PGlite is a WASM build of Postgres, packaged into a TypeScript/JavaScript client library, that enables you to run Postgres in the browser, in Node.js and in Bun. It has support for many Postgres extensions, including pgvector. The Node.js support is what enables it to run in Node-RED.
 
 This module is a fork of [node-red-node-sqlite](https://github.com/node-red/node-red-nodes/tree/master/storage/sqlite). Many thanks to its authors. 
 
