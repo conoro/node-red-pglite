@@ -22,7 +22,7 @@ npm i ~/node-red-pglite
   - This makes use of an early release of PGlite. Production deployment is not recommended
   - You may be able to load more Postgres extensions soon. Currently it loads pgvector and hstore. [Full PGlist list here](https://pglite.dev/extensions/).
   - Full Text Search is supported
-  - A flow with losts of examples in included
+  - A flow with lots of examples is included
 
 Usage
 -----
