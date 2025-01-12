@@ -1,9 +1,9 @@
 {
     "name": "@conoro/node-red-pglite",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "A PGlite node for Node-RED",
     "dependencies": {
-        "@electric-sql/pglite": "^0.2.2"
+        "@electric-sql/pglite": "^0.2.15"
     },
     "repository": {
         "type": "git",
